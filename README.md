@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiman Errajiy</h1>
 <h3 align="center">A web Dev from morocco and student in 1337, 42 Network</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theblack-wis&label=Profile%20views&color=0e75b6&style=flat" alt="theblack-wis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblack-wis" alt="theblack-wis" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently Student at 1337, 42 Network [42Cursus](https://42.fr/le-programme/apprentissage-innovant/)
@@ -26,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblack-wis&show_icons=true&locale=en" alt="theblack-wis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblack-wis&" alt="theblack-wis" /></p>
+<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblack-wis&" alt="theblack-wis" /></p></center>
 
