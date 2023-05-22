@@ -19,18 +19,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theblack-wis&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theblack-wis&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theblack-wis&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wis-aerrajiy&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wis-aerrajiy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wis-aerrajiy&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=theblack-wis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=wis-aerrajiy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theblack-wis&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wis-aerrajiy&icon=0&color=0)](https://visitcount.itsvg.in)
