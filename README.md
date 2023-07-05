@@ -1,3 +1,6 @@
+[![aerrajiy's 42 stats](https://badge42.vercel.app/api/v2/clbzhhuw500110gl3klwx5vqp/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
+
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
